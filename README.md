@@ -1,2 +1,2 @@
-# C-labs
+# CSharp-labs
 C#labs
